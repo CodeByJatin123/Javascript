@@ -8,3 +8,5 @@ reference types. Notes are written in simple Hinglish.
 - Primitive Data Types
 - Reference Data Types
 
+## Comparison in JavaScript
+JavaScript provides loose and strict comparison...
