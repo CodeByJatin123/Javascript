@@ -11,3 +11,10 @@ reference types. Notes are written in simple Hinglish.
 
 ## Comparison in JavaScript
 JavaScript provides loose and strict comparison...
+### JavaScript String Practice
+
+- Used template literals for string interpolation
+- Worked with string objects and properties
+- Practiced string methods like charAt, indexOf, slice, substring, trim
+- Modified URLs using replace and includes
+- Converted strings into arrays using split
