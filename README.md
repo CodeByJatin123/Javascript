@@ -7,6 +7,7 @@ reference types. Notes are written in simple Hinglish.
 - Comparison Operators (== vs ===)
 - Primitive Data Types
 - Reference Data Types
+- heap and stach memory
 
 ## Comparison in JavaScript
 JavaScript provides loose and strict comparison...
