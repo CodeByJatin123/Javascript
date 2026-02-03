@@ -28,4 +28,8 @@ JavaScript provides loose and strict comparison...
 - Practiced Math object methods (abs, round, ceil, floor, min, max)
 - Generated random numbers using Math.random()
 - Created random numbers within a fixed range using min–max formula
+
 **
+I learned how to work with the JavaScript Date object. I understood how to create a new date using new Date() and display it in different readable formats like toString(), toDateString(), and toLocaleString(). I also learned how to create custom dates using different formats and understood that months in JavaScript start from zero. Along with this, I explored timestamps using Date.now(), converted milliseconds into seconds, and extracted useful information like month number and day of the week. Finally, I learned how to format dates using toLocaleString() to get the full name of the weekday.
+
+Agar bole to isi ko thoda casual, Hing
