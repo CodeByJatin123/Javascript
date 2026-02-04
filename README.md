@@ -55,3 +55,4 @@ The join() method converts an array into a string.
 The slice() method returns a part of the array without changing the original array.
 
 The splice() method changes the original array and returns the removed elements.
+From chai aur code
