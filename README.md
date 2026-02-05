@@ -56,3 +56,19 @@ The slice() method returns a part of the array without changing the original arr
 
 The splice() method changes the original array and returns the removed elements.
 From chai aur code
+
+
+Today, I learned different ways to check, convert, and create arrays in JavaScript.
+
+Array.isArray()
+This method is used to check whether a value is an array or not.
+It returns true if the value is an array, otherwise false.
+
+Array.from()
+This method is used to convert iterable or array-like objects (such as strings) into an array.
+For example, converting a string creates an array of its characters.
+However, normal objects are not iterable, so Array.from() does not work on them directly, and array methods cannot be used on objects.
+
+Array.of()
+This method is used to create a new array from the given values.
+It is a simple and clear way to create an array from multiple variables.
