@@ -18,7 +18,21 @@ JavaScript provides loose and strict comparison...
 - Practiced string methods like charAt, indexOf, slice, substring, trim
 - Modified URLs using replace and includes
 - Converted strings into arrays using split
+Learned how to create object literals in JavaScript using key–value pairs.
 
+Understood how to access object properties using dot notation and bracket notation.
+
+Learned that keys with spaces (like "full name") must be accessed using bracket notation.
+
+Understood how to use Symbol as a unique and hidden key inside an object.
+
+Learned that even when an object is declared with const, its properties can be updated.
+
+Learned how to store and use an array inside an object.
+
+Understood how to add a function inside an object, which is called a method.
+
+Learned the difference between a function reference and function execution using parentheses ().
 
 
 **## JavaScript Numbers & Math
