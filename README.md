@@ -86,3 +86,28 @@ However, normal objects are not iterable, so Array.from() does not work on them 
 Array.of()
 This method is used to create a new array from the given values.
 It is a simple and clear way to create an array from multiple variables.
+
+I Learned Today (JavaScript Objects)
+
+A single object can be created using object literal syntax {}.
+
+Properties can be added to an object after creation using dot notation.
+
+Objects can store different types of values like strings, booleans, and numbers.
+
+An object can also contain another object inside it (nested objects).
+
+Nested object values can be accessed using dot notation step by step.
+
+JavaScript allows accessing deeply nested properties like
+regularuser.fullname.firstname.
+
+Objects can have numeric keys, which are automatically treated as strings.
+
+Two or more objects can be merged into one object.
+
+The spread operator (...) is the recommended and modern way to merge objects.
+
+Using spread operator creates a new object without modifying the original ones.
+
+Merging objects helps in combining data cleanly and efficiently.
