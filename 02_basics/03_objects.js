@@ -19,3 +19,13 @@
 //  const obj2={3:"c",4:"d"};
 //  const obj3={...obj1,...obj2}; // this methood is used to merge recommended way to merge two objects.
 //  console.log(obj3);
+
+const course={
+    coursname:"Js in Hindi",
+    price:999,
+    courseInstructor:"Jatin"
+}
+// console.log(course.courseInstructor);
+
+const {courseInstructor:instructor}=course;  //<<destructing 
+console.log(instructor);
