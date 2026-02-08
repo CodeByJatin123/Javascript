@@ -111,3 +111,21 @@ The spread operator (...) is the recommended and modern way to merge objects.
 Using spread operator creates a new object without modifying the original ones.
 
 Merging objects helps in combining data cleanly and efficiently.
+
+
+
+I Learned Today (JavaScript)
+
+I learned Object Destructuring in JavaScript.
+
+Object destructuring is used to extract values from an object.
+
+It allows accessing object properties without using dot notation.
+
+I learned how to rename a property while destructuring.
+
+Destructuring makes the code short, clean, and readable.
+
+It is an ES6 feature of JavaScript.
+
+Object destructuring is widely used in modern JavaScript and React.****
