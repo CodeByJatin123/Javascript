@@ -20,3 +20,27 @@
 
 // console.log(justlogin("Jatin"));
 
+
+// calculate cart price
+
+// function calculatecartprice(...num1){
+//     return num1;
+// }
+// console.log(calculatecartprice(100,200,300));
+
+
+// function calculatecartprice(val1,val2,...num1){  //-- interview important 
+//     return num1;
+// }
+// console.log(calculatecartprice(100,200,300,400));
+
+const user={
+    username: "Jatin",
+    price: 199
+}
+
+function handleobject(anyobject){
+    return `The username is ${anyobject.username} and the price is ${anyobject.price};`
+}
+
+console.log(handleobject(user));
