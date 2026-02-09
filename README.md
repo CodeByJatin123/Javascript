@@ -143,3 +143,20 @@ I learned how to store the returned value of a function in a variable and use it
 
 Finally, I learned about template literals using backticks (`), which allow us to insert variables directly into strings using ${}.
 from chai aur code.
+
+
+Learned about Rest Operator (...) in functions
+
+Used rest operator to accept multiple arguments
+
+Understood that rest operator stores values in an array
+
+Learned that rest operator must be the last parameter in a function
+
+Learned how to pass objects as arguments to a function
+
+Accessed object properties using dot notation
+
+Used template literals to display dynamic values in strings
+
+Understood real-world use of functions with objects (cart, user data)
