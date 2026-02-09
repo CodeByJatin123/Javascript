@@ -114,7 +114,7 @@ Merging objects helps in combining data cleanly and efficiently.
 
 
 
-I Learned Today (JavaScript)
+I Learned Today 
 
 I learned Object Destructuring in JavaScript.
 
@@ -129,3 +129,16 @@ Destructuring makes the code short, clean, and readable.
 It is an ES6 feature of JavaScript.
 
 Object destructuring is widely used in modern JavaScript and React.****
+
+
+First, I learned how to use console.log() to print output on the console. It is mainly used for debugging and checking values.
+
+Then, I learned how to declare a function and call a function. A function only runs when it is called.
+
+I also learned how to use parameters in a function and how to pass arguments while calling it.
+
+I understood the importance of the return statement. Once a return statement is executed, the function stops running, and any code written after return does not execute.
+
+I learned how to store the returned value of a function in a variable and use it later.
+
+Finally, I learned about template literals using backticks (`), which allow us to insert variables directly into strings using ${}.
