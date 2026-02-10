@@ -153,7 +153,64 @@ Understood that rest operator stores values in an array
 
 Learned that rest operator must be the last parameter in a function
 
+
 Learned how to pass objects as arguments to a function
+
+I Learned Today (JavaScript)
+
+Block Scope
+
+let and const are block scoped.
+
+They can be accessed only inside { }.
+
+var is not block scoped.
+
+Global and Local Scope
+
+Variables declared outside a block are global.
+
+Variables declared inside a block are local.
+
+A local variable does not affect a global variable with the same name.
+
+Variable Shadowing
+
+When a local variable has the same name as a global variable, it hides the global one inside the block.
+
+Nested Functions
+
+A function inside another function is called a nested function.
+
+The inner function can access variables of the outer function.
+
+Lexical Scope
+
+Inner functions can use variables declared in their parent function.
+
+Parent functions cannot access variables of child functions.
+
+Block Scope in Conditional Statements
+
+Variables declared inside if blocks are accessible only within that block.
+
+Function Hoisting
+
+Function declarations are hoisted.
+
+They can be called before their definition.
+
+Function Expressions
+
+Functions stored in variables are not hoisted.
+
+Calling them before initialization causes an error.
+
+Best Practice
+
+Prefer let and const over var.
+
+Write functions clearly to avoid scope-related errors.
 
 Accessed object properties using dot notation
 
