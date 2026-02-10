@@ -217,3 +217,23 @@ Accessed object properties using dot notation
 Used template literals to display dynamic values in strings
 
 Understood real-world use of functions with objects (cart, user data)
+
+Objects can store data and methods.
+
+this keyword refers to the current object inside an object method.
+
+Object properties can be accessed using this.propertyName.
+
+this behaves differently in global scope and functions.
+
+In a normal function, this does not access local variables.
+
+Arrow functions do not have their own this.
+
+Arrow functions use lexical this from the outer scope.
+
+Arrow functions provide shorter function syntax.
+
+Arrow functions can return values without using return.
+
+Parentheses are required when returning an object from an arrow function
