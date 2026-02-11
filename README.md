@@ -237,3 +237,24 @@ Arrow functions provide shorter function syntax.
 Arrow functions can return values without using return.
 
 Parentheses are required when returning an object from an arrow function
+
+
+
+
+IIFE ka full form → Immediately Invoked Function Expression
+
+Function ko define karke turant execute karte hain
+
+IIFE me function ko brackets ( ) me wrap karte hain
+
+End me (); laga ke call karte hain
+
+Arrow function bhi IIFE me use ho sakta hai
+
+IIFE me parameters pass kar sakte hain
+
+${variable} use karne ke liye backticks ` ` zaroori hote hain
+
+IIFE global scope pollution se bachata hai
+
+Multiple IIFE likhte waqt semicolon ; important hota hai
