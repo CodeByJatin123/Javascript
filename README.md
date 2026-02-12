@@ -258,3 +258,44 @@ ${variable} use karne ke liye backticks ` ` zaroori hote hain
 IIFE global scope pollution se bachata hai
 
 Multiple IIFE likhte waqt semicolon ; important hota hai
+
+chai aur code-->>>>
+
+
+today i learned>>
+1️⃣ JavaScript code 2 phases me run hota hai
+
+Memory Phase
+
+Execution Phase
+
+2️⃣ Memory Phase me
+
+Variables → undefined
+
+Functions → pura function store hota hai
+
+3️⃣ Execution Phase me
+
+Variables ko real value milti hai
+
+Functions execute hote hain
+
+4️⃣ Har function call pe
+
+Naya Execution Context banta hai
+
+Naya Memory + Execution phase hota hai
+
+5️⃣ Function ke Memory Phase me
+
+Sirf parameters (num1, num2)
+
+Aur local variables (total)
+hote hain
+
+6️⃣ Global variables function ke memory phase me nahi aate
+
+7️⃣ Arguments sirf value pass karte hain, pura variable nahi
+
+8️⃣ Function ka kaam khatam → Call Stack se remove
