@@ -360,3 +360,55 @@ switch (month) {
 
 switch and casses
 
+
+
+1️⃣ Falsy Values (Total 7 main ones)
+
+These values behave like false in a condition:
+
+false
+
+0
+
+-0
+
+0n (BigInt zero)
+
+"" (empty string)
+
+null
+
+undefined
+
+NaN
+
+👉 Agar condition me ye aaye to block execute nahi hota.
+
+2️⃣ Truthy Values
+
+Inke alawa almost sab values truthy hoti hain.
+
+Examples:
+
+"0" (string zero)
+
+"false" (string)
+
+" " (space)
+
+[] (empty array)
+
+{} (empty object)
+
+function(){}
+
+👉 Ye sab condition me true behave karte hain.
+
+3️⃣ Important Concept
+
+Empty array [] → truthy
+
+Empty object {} → truthy
+
+Empty string "" → falsy
+
