@@ -324,3 +324,39 @@ Basic understanding of boolean logic in JavaScript.
 7️⃣ Arguments sirf value pass karte hain, pura variable nahi
 
 8️⃣ Function ka kaam khatam → Call Stack se remove
+
+
+// switch (key) {
+//     case value:
+        
+//         break;
+
+//     default:
+//         break;
+// }
+
+const month = "march"
+
+switch (month) {
+    case "jan":
+        console.log("January");
+        break;
+    case "feb":
+        console.log("feb");
+        break;
+    case "march":
+        console.log("march");
+        break;
+    case "april":
+        console.log("april");
+        break;
+
+    default:
+        console.log("default case match");
+        break;
+}
+
+
+
+switch and casses
+
