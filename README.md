@@ -294,6 +294,31 @@ Sirf parameters (num1, num2)
 Aur local variables (total)
 hote hain
 
+
+
+I Learned Today (Points Only)
+
+How if and else statements work.
+
+How to use comparison operators.
+
+How the AND (&&) operator works.
+
+How the OR (||) operator works.
+
+That JavaScript uses lowercase true and false.
+
+The difference between assignment (=) and comparison (==, ===).
+
+Variables must be declared before using them.
+
+The difference between var, let, and const scope.
+
+How multiple conditions are checked in control flow.
+
+Basic understanding of boolean logic in JavaScript.
+
+
 6️⃣ Global variables function ke memory phase me nahi aate
 
 7️⃣ Arguments sirf value pass karte hain, pura variable nahi
