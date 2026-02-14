@@ -412,3 +412,24 @@ Empty object {} → truthy
 
 Empty string "" → falsy
 
+
+I Learned Today
+
+I learned how to use a basic for loop in JavaScript.
+
+I understood how a loop runs from a starting value to an ending condition.
+
+I learned how to use nested loops (a loop inside another loop).
+
+I printed multiplication tables using nested loops.
+
+I learned the modern way of printing using template literals (backticks and ${}).
+
+I learned how to create an array.
+
+I understood how to use the length property of an array.
+
+I learned how to access array elements using index numbers.
+
+I printed all elements of an array using a loop.
+
