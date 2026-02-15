@@ -439,3 +439,40 @@ and i learned Keyword like Continnue and break
 break is used for exaust the statement 
 and continue is used to skip the ertration for one time
 
+
+//higher array loop...
+
+
+// let myarray=[1,2,3,4,5,6,7,8,9,10];
+// for (const num of myarray) {
+//     console.log(num);
+    
+// }
+
+// let name="jatin";
+// for (const num of name) {
+// console.log(num);   
+
+
+I learned how to use for...of loop in JavaScript.
+
+I understood that for...of gives values directly, not index.
+
+I learned the difference between:
+
+for
+
+for...of
+
+for...in
+
+I learned how to create a Map using new Map().
+
+I understood that Map stores key-value pairs.
+
+I learned that Map keys are unique (no duplicates allowed).
+
+I learned how to use map.set() to add data.
+
+I learned how to use destructuring in a loop:
+
