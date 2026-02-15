@@ -433,3 +433,9 @@ I learned how to access array elements using index numbers.
 
 I printed all elements of an array using a loop.
 
+
+and i learned Keyword like Continnue and break
+
+break is used for exaust the statement 
+and continue is used to skip the ertration for one time
+
