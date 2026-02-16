@@ -476,3 +476,15 @@ I learned how to use map.set() to add data.
 
 I learned how to use destructuring in a loop:
 
+
+|||for each loop||||
+
+let heors=["Hero 1","Hero 2","Hero 3","Hero 4"];
+// // heors.forEach(function(val){
+// //     console.log(val);
+// // })
+
+// heors.forEach((itmes)=>{    // by this function
+//     console.log(itmes);
+// })
+
