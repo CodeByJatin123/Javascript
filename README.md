@@ -488,3 +488,16 @@ let heors=["Hero 1","Hero 2","Hero 3","Hero 4"];
 //     console.log(itmes);
 // })
 
+✅ What I Learned Today
+
+I learned the difference between forEach() and filter() in JavaScript.
+
+I understood that forEach() does not return a value, it only loops through the array.
+
+I learned that filter() returns a new array based on a condition.
+
+I understood that when using { } in arrow functions, I must write return.
+
+I learned that without { }, arrow functions automatically return the value.
+
+I practiced filtering numbers greater than 5 from an array.
