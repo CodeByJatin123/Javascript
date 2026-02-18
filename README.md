@@ -501,3 +501,43 @@ I understood that when using { } in arrow functions, I must write return.
 I learned that without { }, arrow functions automatically return the value.
 
 I practiced filtering numbers greater than 5 from an array.
+
+1️⃣ map()
+
+Har element par operation karta hai
+
+New array return karta hai
+
+Original array change nahi hota
+
+2️⃣ forEach()
+
+Sirf loop chalata hai
+
+Kuch return nahi karta
+
+Printing/iteration ke liye use hota hai
+
+3️⃣ filter()
+
+Condition check karta hai
+
+Sirf true wali values return karta hai
+
+New filtered array return karta hai
+
+4️⃣ Arrow Function (=>)
+
+Short function syntax
+
+Single line me return likhne ki zarurat nahi hoti
+
+5️⃣ Curly Braces {} Rule
+
+Agar {} use kare to return likhna zaroori hai
+
+Warna empty array mil sakta hai
+
+6️⃣ Callback Function
+
+Function ke andar function pass karna
