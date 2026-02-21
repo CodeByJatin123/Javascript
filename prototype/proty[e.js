@@ -36,3 +36,10 @@ Array.prototype.last=function(){    // making new protype metthod last
 
 const arr=[1,2,3,4,5];
 console.log(arr.last());
+
+String.prototype.makebig=function(){    //<<make new make big methood
+    return this.toUpperCase();
+}
+
+const string="jatin";
+console.log(string.makebig())
