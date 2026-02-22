@@ -25,9 +25,9 @@ ranbir.makerfilm=function(){
     return `${this.name} is making a film`;
 }
 
-console.log(ranbir.cooktraditionaldish());
-console.log(ranbir.buisness());
-console.log(ranbir.makerfilm());
+// console.log(ranbir.cooktraditionaldish());
+// console.log(ranbir.buisness());
+// console.log(ranbir.makerfilm());
 
 
 Array.prototype.last=function(){    // making new protype metthod last
@@ -35,11 +35,23 @@ Array.prototype.last=function(){    // making new protype metthod last
 }
 
 const arr=[1,2,3,4,5];
-console.log(arr.last());
+// console.log(arr.last());
 
 String.prototype.makebig=function(){    //<<make new make big methood
     return this.toUpperCase();
 }
 
 const string="jatin";
-console.log(string.makebig())
+// console.log(string.makebig())
+
+// makiing of foreach loop using prototype
+Array.prototype.myforeach=function(callback){
+    for(let i=0;i<this.length;i++){
+        callback(this[i],i,this);
+    }
+}
+
+const myarr=[1,3,4,44,4];
+    myarr.myforeach(function(value){
+        console.log(value);
+    })
