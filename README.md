@@ -517,4 +517,58 @@ Step by step, building logic and thinking like a developer 💻🔥
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Part 2 start <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Cohhert courses begin<<<<<<<<<<<<<
+
+
+
+I learned how to create a class in JavaScript.
+
+I understood how the constructor initializes object properties.
+
+I learned that this refers to the current object.
+
+I created multiple instances using the new keyword.
+
+I learned how to define and use a class method (introduce()).
+
+I understood how hasOwnProperty() checks if a property belongs directly to an object.
+
+I learned that typeof ClassName returns "function" because classes are special functions in JavaScript.
+
+I learned the difference between instance methods (defined inside constructor) and prototype methods (defined outside constructor).
+
+I understood that arrow functions inside the constructor create a new function for each object.
+
+I learned that because of this, debutant1.walkOut === debutant2.walkOut returns
+I learned how to create a Symbol using Symbol("description").
+
+I understood that the typeof a Symbol is "symbol".
+
+I learned that even if two Symbols have the same description, they are always unique.
+
+I understood that aadhaar_of_mayur === aadhaar_of_piyush returns false because Symbols are unique.
+
+I learned how to convert a Symbol to a string using .toString().
+
+I understood how to access the description of a Symbol using .description.
+
+I learned that if a Symbol is created without a description, its .description is undefined.
+
+I understood how to use Symbols as object property keys using square brackets.
+
+I learned that Object.keys() does not return Symbol properties.
+
+I understood that Object.getOwnPropertySymbols() is used to access Symbol keys of an object.
+
+I learned how to implement a custom iterator using [Symbol.iterator].
+
+I understood how the next() method works with { value, done }.
+
+I learned how for...of uses [Symbol.iterator] internally.
+
+I understood how to customize object conversion using [Symbol.toPrimitive].
+
+I learned that when converting to a number (+object), the "number" hint is used.
+
+I understood that when converting to a string (template literal), the "string" hint is used
